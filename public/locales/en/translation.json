@@ -1,0 +1,75 @@
+{
+    "navs": {
+        "home": "Home",
+        "about": "About Us",
+        "products": "Products"
+    },
+    "slogan": "Drive Green, Drive Clean",
+    "greetings": "We invite you to join us on our journey towards a more sustainable world",
+    "aboutUs": "About Us",
+    "descAboutUs": "Eco Vroom envisions a world where clean, green transportation is the norm. We are dedicated to creating vehicles that minimize environmental impact while providing a superior driving experience. Our goal is to lead the charge towards a sustainable future, one electric vehicle at a time",
+    "chooseEV": "Why Choose Eco Vroom",
+    "chooseEVContent": {
+        "titleCEV1": "Commitment to Sustainability",
+        "descCEV1": "Eco Vroom is dedicated to reducing our carbon footprint and promoting sustainable practices.",
+        "titleCEV2":"Cost-Effective Solutions",
+        "descCEV2": "Eco Vroom electric vehicles offer significant savings over traditional gasoline cars.",
+        "titleCEV3":"Comprehensive Support",
+        "descCEV3": "Our comprehensive warranty and dedicated customer service are designed to give you peace of mind.",
+        "titleCEV4":"Stylish Design",
+        "descCEV4": "Our sleek, modern designs stand out on the road, making a statement about your commitment to innovation.",
+        "titleCEV5":"Community",
+        "descCEV5": "At Eco Vroom with the community around the world, we believe in making a positive impact on the world.",
+        "titleCEV6":"Superior Performance",
+        "descCEV6": "Enjoy a quiet, comfortable ride with zero emissions, proving that you don’t have to sacrifice performance for sustainability."
+    },
+
+    "ourProducts": "Our Products",
+    "productsContent": {
+        "descEVS1001": "The EV-S1001 is designed for those who seek a perfect balance between efficiency and elegance. ",
+        "descEVMiniC02": "The EV Mini C-02 has a compact size that makes it perfect for navigating through city streets.",
+        "descEVMiniC11": "The EV Mini C-11 combines the benefits of a compact vehicle with powerful performance. ",
+        "descEVEll": "EV Ell Turbo is a high-performance electric vehicle delivers thrilling acceleration.",
+        "descEVSUVAC": "The EV SUV-AC is built for versatility and durability. It is perfect for families and adventurers alike.",
+        "descEVSUVAA": "The EV SUV-AA is the ultimate electric SUV for those who seek adventure without compromising on comfort.",
+        "buttonProducts": "Get Your Offer"
+    },
+    
+    "faq": "Frequently Asked Question",
+    "faqContent": {
+        "titleFaq1": "What is the range of Eco Vroom electric vehicles on a single charge?",
+        "answerFaq1": "Our Eco Vroom electric vehicles offer impressive ranges to suit various driving needs: Eco Vroom S Series Up to 300 km per charge, Eco Vroom Mini Series Up to 400 km per charge, Eco Vroom SUV Series Up to 450 km per charge, Eco Vroom Ell Turbo: Up to 350 km per charge.",
+        "titleFaq2": "How long does it take to charge an Eco Vroom vehicle?",
+        "answerFaq2": "Charging times for Eco Vroom vehicles depend on the type of charger used: Standard Charger needs 6-8 hours for a full charge, Fast Charger needs 1-2 hours for an 80% charge, Supercharger needs 30 minutes for an 80% charge.",
+        "titleFaq3": "What are the maintenance requirements for Eco Vroom electric vehicles",
+        "answerFaq3": "Eco Vroom electric vehicles have lower maintenance requirements compared to traditional gasoline vehicles. Regular maintenance includes: Battery health checks, Brake system inspections, Tire rotations and inspections, and Software updates.",
+        "titleFaq4": "Are there any government incentives for purchasing an Eco Vroom electric vehicle?",
+        "answerFaq4": "Yes, many governments offer incentives for purchasing electric vehicles. These can include: Tax credits, Rebates, Reduced registration fees and Free or discounted parking in some areas. Check with your local government or Eco Vroom dealership for specific incentives available in your area.",
+        "titleFaq5": "How do Eco Vroom vehicles contribute to environmental sustainability?",
+        "answerFaq5": "Eco Vroom vehicles contribute to environmental sustainability by: Reducing carbon emissions, Using renewable energy, and Promoting resource efficiency.",
+        "titleFaq6": "What safety features are included in Eco Vroom electric vehicles?",
+        "answerFaq6": "Eco Vroom vehicles come equipped with advanced safety features to ensure a secure driving experience: Advanced driver assistance systems (ADAS), Automatic emergency braking (AEB),Lane departure warning (LDW), Blind-spot monitoring (BSM), Electronic stability control (ESC) and Multiple airbags for driver and passengers. If you have more questions, feel free to contact our customer support team or visit our showroom for a detailed consultation.",
+        "titleBranch": "Find Our Branch Around You"
+    },
+    "branch" : {
+        "titleBranch": "Find Our Branch Around You",
+        "descBranch": "You can pick your location here and found the EV Branch!",
+        "answerAvBranch": "Available! Our branch is available on your region.",
+        "answerNotAvBranch": "Not Available! Sorry, our branch isn't available on your region.",
+        "optionValueProvince": "Select Province",
+        "optionValueCity": "Select City",
+        "buttonBranch": "Search"
+    },
+    "footer": {
+        "prod": "PRODUCTS",
+        "choose": "CHOOSE US",
+        "stylish": "Stylish",
+        "sustainability": "Sustainability",
+        "community": "Community",
+        "cost": "Cost Effective",
+        "support": "Support 24/7",
+        "performance": "Performance",
+        "follow": "FOLLOW US",
+        "getin": "Get in Touch" 
+    }
+}

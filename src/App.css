@@ -1,0 +1,160 @@
+.home {
+    margin: 50px;
+}
+
+h1 {
+    font-weight: 500;
+}
+
+.accordion-header {
+    margin: 1;
+}
+
+.navbar {
+    color: black;
+}
+
+.slogan {
+    margin-top: 100px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.slogan img {
+    max-width: 80%;
+}
+
+.about img {
+    max-width: 80%;
+}
+
+.text-aboutus {
+    background-color:#2e7e3f;
+    color: white;
+    border-radius: 20px;
+    margin-top: 5px;
+}
+
+.choosing-us-card {
+    background-color: #2e7e3f;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 5px;  
+    curcor: pointer; 
+}
+
+.choosing-us-card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.products img {
+    width: auto;
+    height: 200px; 
+}
+
+.container-faq {
+    background-color: #2e7e3f;
+    width: 100%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.faq {
+    background-color: #2e7e3f;
+    color: white;
+}
+
+.branch {
+    margin-top: 20px;
+}
+
+.branch-title {
+    margin-top: 20px;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    justify-self: center;
+    margin-top: 10px;
+}
+
+ footer {
+    background-color: #2e7e3f;
+}
+
+.footer .sosmed img {
+    width: 30px;
+    margin: 5px;
+    text-align: start;
+}
+
+.footer p {
+    font-weight: 300;
+}
+
+form {
+    width: 100px;
+    display: flex;
+    gap: 1rem;
+}
+
+form button {
+    align-self: flex-start;
+    justify-content: center;
+}
+
+.available, .not-available {
+    max-width: max-content;
+    margin-top: 5px;
+}
+.available {
+    background-color: #1fce1f;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .not-available {
+    background-color: #8b2020;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+  }
+
+@media (max-width: 768px) {
+    h3 {
+        font-size: 16px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+    .slogan {
+        margin-top: 100px;
+        margin-right: 10px;
+        margin-left: 10px;
+    }
+
+    .slogan h1 {
+        font-size: x-large;
+    }
+
+    .slogan p {
+        font-size: medium;
+    }
+
+    .slogan img {
+        max-width: 90%;
+    }
+
+    .about img {
+        max-width: 90%;
+    }
+
+    .footer img {
+        width: 30px;
+    }
+
+    
+
+}

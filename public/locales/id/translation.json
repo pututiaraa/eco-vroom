@@ -1,0 +1,77 @@
+{
+    "navs": {
+        "home": "Beranda",
+        "about": "Tentang Kami",
+        "products": "Produk"
+    },
+    "slogan": "Drive Green, Drive Clean",
+    "greetings": "Kami mengundang Anda untuk bergabung dengan kami dalam perjalanan menuju dunia yang lebih berkelanjutan.",
+    "aboutUs": "Tentang Kami",
+    "descAboutUs": "Eco Vroom membayangkan dunia di mana transportasi yang bersih dan hijau adalah norma. Kami berdedikasi untuk menciptakan kendaraan yang meminimalkan dampak lingkungan sambil memberikan pengalaman berkendara yang superior. Tujuan kami adalah memimpin pergerakan menuju masa depan yang berkelanjutan.",
+    "chooseEV": "Mengapa Memilih Eco Vroom?",
+    "chooseEVContent": {
+        "titleCEV1": "Komitmen terhadap Keberlanjutan",
+        "descCEV1": "Eco Vroom berdedikasi untuk mengurangi jejak karbon dan mempromosikan praktik berkelanjutan.",
+        "titleCEV2":"Solusi Hemat Biaya",
+        "descCEV2": "Kendaraan listrik Eco Vroom menawarkan penghematan energi yang signifikan  dan efektif dibandingkan dengan mobil bensin tradisional.",
+        "titleCEV3":"Dukungan Komprehensif",
+        "descCEV3": "Garansi komprehensif kami dan layanan pelanggan yang dirancang untuk memberi Anda ketenangan pikiran.",
+        "titleCEV4":"Desain Stylish",
+        "descCEV4": "Desain kami yang ramping dan modern sesuai dengan komitmen terhadap inovasi dan keberlanjutan.",
+        "titleCEV5":"Komunitas dan Dampak",
+        "descCEV5": "Di Eco Vroom, kami percaya dalam membuat dampak positif pada dunia.",
+        "titleCEV6":"Kinerja Unggul",
+        "descCEV6": "Nikmati perjalanan yang tenang dan nyaman dengan emisi nol dan tetap menjaga keberlanjutan."
+    },
+
+    "ourProducts": "Produk Kami",
+    "productsContent" : {
+        "descEVS1001": "EV-S1001 dirancang untuk mereka yang mencari keseimbangan sempurna antara efisiensi dan keanggunan.",
+        "descEVMiniC02": "EV Mini C-02 memiliki ukuran yang kompak yang membuatnya sempurna untuk menavigasi jalanan kota dan tempat parkir yang sempit.",
+        "descEVMiniC11": "EV Mini C-11 menggabungkan manfaat kendaraan yang minimal namun tetap dengan kinerja yang kuat.",
+        "descEVEll": "EV Ell Turbo adalah kendaraan listrik berperforma tinggi yang memberikan akselerasi yang mendebarkan.",
+        "descEVSUVAC": "EV SUV-AC dibangun untuk serbaguna dan tahan lama. Ini sempurna untuk keluarga.",
+        "descEVSUVAA": "EV SUV-AA adalah SUV listrik yang sempurna untuk mereka yang mencari petualangan.",
+        "buttonProducts": "Ambil Tawaranmu"
+    },
+    
+
+    "faq": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "faqContent": {
+        "titleFaq1": "Berapa jangkauan kendaraan listrik Eco Vroom dalam sekali pengisian?",
+        "answerFaq1": "Kendaraan listrik Eco Vroom menawarkan jangkauan yang mengesankan untuk memenuhi berbagai kebutuhan berkendara: Eco Vroom S Series Hingga 300 km per pengisian, Eco Vroom Mini Series Hingga 400 km per pengisian, Eco Vroom SUV Series Hingga 450 km per pengisian, dan Eco Vroom Ell Turbo Hingga 350 km per pengisian.",
+        "titleFaq2": "Berapa lama waktu yang diperlukan untuk mengisi daya kendaraan Eco Vroom?",
+        "answerFaq2": "Waktu pengisian kendaraan Eco Vroom tergantung pada jenis pengisi daya yang digunakan: Pengisi Daya Standar membutuhkan 6-8 jam untuk pengisian penuh, Pengisi Daya Cepat membutuhkan 1-2 jam untuk pengisian 80%, dan Supercharger membutuhkan 30 menit untuk pengisian 80%.",
+        "titleFaq3": "Apa saja kebutuhan perawatan untuk kendaraan listrik Eco Vroom?",
+        "answerFaq3": "Kendaraan listrik Eco Vroom memiliki kebutuhan perawatan yang lebih rendah dibandingkan dengan kendaraan bensin tradisional. Perawatan rutin termasuk: Pemeriksaan kesehatan baterai, Inspeksi sistem rem, Rotasi dan inspeksi ban serta Pembaruan perangkat lunak.",
+        "titleFaq4": "Apakah ada insentif pemerintah untuk membeli kendaraan listrik Eco Vroom?",
+        "answerFaq4": "Ya, banyak pemerintah menawarkan insentif untuk membeli kendaraan listrik. Ini dapat mencakup: Kredit pajak, Rabate, Pengurangan biaya registrasi, dan Parkir gratis atau diskon di beberapa area. Periksa dengan pemerintah setempat atau dealer Eco Vroom untuk insentif spesifik yang tersedia di wilayah Anda.",
+        "titleFaq5": "Bagaimana kendaraan Eco Vroom berkontribusi pada keberlanjutan lingkungan?",
+        "answerFaq5": "Kendaraan Eco Vroom berkontribusi pada keberlanjutan lingkungan dengan: Mengurangi emisi karbon, Menggunakan energi terbarukan, dan Mempromosikan efisiensi sumber daya.",
+        "titleFaq6": "Apa saja fitur keselamatan yang termasuk dalam kendaraan listrik Eco Vroom?",
+        "answerFaq6": "Kendaraan Eco Vroom dilengkapi dengan fitur keselamatan canggih untuk memastikan pengalaman berkendara yang aman: Sistem bantuan pengemudi canggih (ADAS), Pengereman darurat otomatis (AEB), Peringatan keberangkatan jalur (LDW), Pemantauan titik buta (BSM), Kontrol stabilitas elektronik (ESC) dan Beberapa airbag untuk pengemudi dan penumpang. Jika Anda memiliki pertanyaan lebih lanjut, jangan ragu untuk menghubungi tim dukungan pelanggan kami atau mengunjungi showroom kami untuk konsultasi lebih lanjut."
+    },
+    "branch": {
+        "titleBranch": "Temukan Cabang Kami di sekitar Anda",
+        "descBranch": "Anda dapat memilih lokasi anda disini dan temukan cabang EV!" ,
+        "answerAvBranch": "Tersedia! Cabang kami tersedia di daerah Anda.",
+        "answerNotAvBranch": "Tidak tersedia! Maaf cabang kami belum tersedia di daerah Anda.",
+        "optionValueProvince": "Pilih Provinsi",
+        "optionValueCity": "Pilih Kota",
+        "buttonBranch": "Cari"
+    },
+    "footer": {
+        "prod": "PRODUK",
+        "choose": "PILIH KAMI",
+        "stylish": "Stylish",
+        "sustainability": "Berkelanjutan",
+        "cost": "Hemat Energi",
+        "support": "Support 24/7",
+        "community": "Komunitas",
+        "performance": "Performa",
+        "follow": "IKUTI KAMI",
+        "getin": "Temui Kami Di"
+    }
+
+   
+}
